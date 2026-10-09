@@ -1,7 +1,7 @@
 <h1 align="center">韶聪泽明 · ShaoCongZeMing</h1>
 
 <p align="center">
-  <sub>企业数字员工 — 让每个行业都有自己的 AI 同事</sub>
+  <sub>通用 AI 办公伙伴 — 带出属于你自己的数字员工</sub>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 **我们在做**：
 
-- **企业数字员工** — 可订阅的 AI 同事，按行业蒸馏真实业务能力
-- **企业 AI 落地服务** — 从选型到部署的全程陪跑
-- **FDE**（Forward Deployed Engineer）— 前置部署，把 AI 做进你的业务流
+- **[班底 ZECREW](https://zecrew.shaocongzeming.com)** — 桌面 AI 办公伙伴软件：捏员工、捏技能、编排流程，带出你自己的数字员工，它会越来越懂你
+- **员工与技能定制** — 帮你定制数字员工，或定制它的工作技能
+- **企业 AI 服务（FDE）** — 前置部署，把 AI 做进你的业务流
 
 ### 🛠️ 技术栈 · Stack
 
@@ -27,16 +27,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![IndustrialElectrical](https://img.shields.io/badge/工业电气-低压配电·工业插接-37474F?style=flat-square&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ### 📦 开源项目 · Open Source
 
 **给 Claude Code 用户的**
 
-- **[zecrew-skills](https://github.com/shaocongzeming/zecrew-skills)** — Agent Skills 全家桶：文档生产套件（docx/pdf/pptx/xlsx + judge 视觉验收）· 数字员工蒸馏 · 项目脚手架，原创为主、出处清晰
+- **[zecrew-skills](https://github.com/shaocongzeming/zecrew-skills)** — Agent Skills 全家桶：文档生产套件（docx/pdf/pptx/xlsx + judge 视觉验收）· 数字员工带教 · 项目脚手架，原创为主、出处清晰
 - **[zhipu-statusline](https://github.com/shaocongzeming/zhipu-statusline)** — 状态栏显示智谱 GLM Coding Plan 额度：5 小时/周窗口 + 重置倒计时，原版渲染，一条命令装好
 
-**行业老炮亲手喂的**
+**传统行业从业者亲手做的**
 
 
 **小玩具**
@@ -47,6 +47,6 @@
 ---
 
 <p align="center">
-  <sub><b>企业数字员工</b> · <b>企业 AI 落地服务</b> · <b>FDE</b> 前置部署</sub><br/>
+  <sub><b>班底 ZECREW</b> 桌面 AI 办公伙伴 · <b>员工与技能定制</b> · <b>企业 AI 服务（FDE）</b></sub><br/>
   <sub>北京韶聪泽明智能科技有限责任公司 · 班底 Zecrew</sub><br/>
 </p>
