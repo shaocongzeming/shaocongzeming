@@ -2,13 +2,13 @@
 
 <p align="center">
   <b>班底 Zecrew</b> 主理人 &nbsp;·&nbsp; 北京韶聪泽明智能科技有限责任公司<br/>
-  <sub>通用 AI 办公伙伴 — 带出属于你自己的数字员工</sub>
+  <sub>带出属于你自己的数字员工，构建你的专属班底</sub>
 </p>
 
 <p align="center">
   <a href="https://zecrew.shaocongzeming.com"><img src="https://img.shields.io/badge/官网-zecrew.shaocongzeming.com-2563EB?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"></a>
   <a href="mailto:sunshaocong@shaocongzeming.com"><img src="https://img.shields.io/badge/联系-sunshaocong@shaocongzeming.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/WaytoAGI-模数OPC社区-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Community">
+  <a href="https://waytoagi.com"><img src="https://img.shields.io/badge/WaytoAGI-%E6%A8%A1%E6%95%B0OPC%E7%A4%BE%E5%8C%BA-1B6ACB?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGltYWdlIGhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBRUFBQUFCQUNBSUFBQUFsQythSkFBQUFBWE5TUjBJQXJzNGM2UUFBQUVSbFdFbG1UVTBBS2dBQUFBZ0FBWWRwQUFRQUFBQUJBQUFBR2dBQUFBQUFBNkFCQUFNQUFBQUJBQUVBQUtBQ0FBUUFBQUFCQUFBQVFLQURBQVFBQUFBQkFBQUFRQUFBQUFCR1VVS3dBQUFDZVVsRVFWUm9CZTFhUzB2RFFCRE9KaW5XUjMxVVVCVDBxaGN2L2dqOXVSNzhGUjdGdXdpS2h4YXhhcldhbUYyL1dOUjIwcWxwbWE0R1prRk1zcFBkNzVIc3pFWk5wOU1KcXR6Q0tvUFBzU3VCdjNZd2xnVmdUQkRoaDIvV09ldjQ3c2w3SkFrQStVdVMzVDRrSEFOQTMyalVWdWRqUVE2U0JFSmoyay9wNlVVYkJ5T2xUREozdk45YzMyM1lUTXdGU1FJQW5UOUNvZUVJeEM0UGtHMjZDc25xT2ZsbzZzRGttc25lb1E3STZqbjVhSlYzUURnUE9CZThXeGN5aXoyNkJITnczeTBqdUI5QWt1cStaZGYzcnlZWXpRQ0YwTmJLWEhOQnNwU1FKQUJKK3BrNDRBb0ZFMWhwRTJid0NNblZPV1ZlNmNxL3hFcWdqTTJ6akZFSFpxbHVtYkVyNzREd01wcm5BV1A0TkJCa0RxMk1zbVZqSkFrQWZTK3hyZTY0VGYzNllxMVJqd1E1U0JMQVZoam9UODViM0o0WW0vcWp2ZWJoYmlPVlMzYVNCT0E2YWlDZzV3aEVLSkpHVjBsbEg1aGlYT1ZmWWlWUU5OWHZGWFhBcjk3RjJkU0JvaVorcjlBOGdHWGFUTHRXZjJhQVgrRDNhNDFzcW15QW0yeEFLNUdoUFRIS21Kdk82OW5WWThoOVZ4Z0xEeFAwMHF6VlRUbDRxQ0NhaS9GeWZjcE5mV2Jkd2ZiUy91WUN2bTU4QXhseUFQSzhKUGJ5cmhkUFJRQ2o5Z1grSHAwY29QZnVPVzN6REVrOE9VVWxzck5XeHlDRGJZZ0FPdEFOOVBqR1B4Z2tlRnptTWVPbXc1OFhpcmgwRmVMazhuVmRIZkNsTkRlUE9zQXA0K3M2WFVheGxpTkxzTnR5WDdCR3pnTmdQd25zSzRJU3FJVm1aVDRhLys4Q1gvZjYvcDFhTnhlRmhNTlFLUUZFWUltTTdSdGE2Zm1pTU45ekQ0WlRCNURxb1A5Z3hMODZMa3BMQ1FCdU1laGZjU0JnZEJrbGduZy9WUWU4UzA0bVZBZUlJTjVQMVFIdmtwTUoxUUVpaVBkVGRjQzc1R1RDeWp2d0FjN3NwTUlNUzRta0FBQUFBRWxGVGtTdVFtQ0MiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIvPjwvc3ZnPg==&logoColor=white" alt="WaytoAGI 模数OPC 社区"></a>
 </p>
 
 <p align="center">
