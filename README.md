@@ -31,14 +31,22 @@
 
 ### 📦 开源项目 · Open Source
 
-| 项目 | 一句话 |
-|---|---|
-| [**zecrew-skills**](https://github.com/shaocongzeming/zecrew-skills) | Claude Code Agent Skills：文档生产套件（docx/pdf/pptx/xlsx + judge 视觉验收）· 数字员工蒸馏 · 项目脚手架 |
-| [**zhipu-statusline**](https://github.com/shaocongzeming/zhipu-statusline) | Claude Code 状态栏显示智谱 GLM Coding Plan 额度：5 小时/周窗口 + 重置倒计时，原版渲染 |
-| [**scame-top-cli**](https://github.com/shaocongzeming/scame-top-cli) | 工业电气产品选型 CLI + Agent Skill（加密数据层）——行业老炮亲手喂出来的垂直工具 |
-| [**yiqi-aa**](https://github.com/shaocongzeming/yiqi-aa) | 一起A了吧 — 手机端优先的本地 AA 记账 PWA，数据不出设备 |
-| [**english-learner**](https://github.com/shaocongzeming/english-learner) | 英语学习工具：单词记忆 / 阅读训练（React + TS + Vite） |
+**给 Claude Code 用户的**
+
+- **[zecrew-skills](https://github.com/shaocongzeming/zecrew-skills)** — Agent Skills 全家桶：文档生产套件（docx/pdf/pptx/xlsx + judge 视觉验收）· 数字员工蒸馏 · 项目脚手架，原创为主、出处清晰
+- **[zhipu-statusline](https://github.com/shaocongzeming/zhipu-statusline)** — 状态栏显示智谱 GLM Coding Plan 额度：5 小时/周窗口 + 重置倒计时，原版渲染，一条命令装好
+
+**行业老炮亲手喂的**
+
+
+**小玩具**
+
+- **[yiqi-aa](https://github.com/shaocongzeming/yiqi-aa)** — 一起A了吧：手机端优先的本地 AA 记账 PWA，数据不出设备
+- **[english-learner](https://github.com/shaocongzeming/english-learner)** — 英语学习工具：单词记忆 / 阅读训练（React + TS + Vite）
 
 ---
 
-<div align="center"><sub>© 2026 北京韶聪泽明智能科技有限责任公司 · 韶聪泽明 · 班底 Zecrew</sub></div>
+<p align="center">
+  <sub><b>企业数字员工</b> · <b>企业 AI 落地服务</b> · <b>FDE</b> 前置部署</sub><br/>
+  <sub>北京韶聪泽明智能科技有限责任公司 · 班底 Zecrew</sub><br/>
+</p>
